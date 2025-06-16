@@ -2272,15 +2272,9 @@ button,
     margin-top: 0;
     padding-top: 0; }
 
-.responsive-image {
-  display: block;
-  width: 100%;
+picture img {
+  width: auto !important;
+  max-width: 100%;
   height: auto;
-}
-
-@media screen and (max-width: 768px) {
-  .responsive-image {
-    content: url("images/Logo red arrows.jpg");
-  }
 }
 
