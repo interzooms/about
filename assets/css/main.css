@@ -2272,7 +2272,7 @@ button,
     margin-top: 0;
     padding-top: 0; }
 .responsive-img {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
 }
 
